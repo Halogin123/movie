@@ -31,10 +31,10 @@ class RouteServiceProvider extends ServiceProvider
         $this->routes(function () {
             Route::middleware('api')
                 ->prefix('api')
-                ->group(__DIR__ . '/../routers/api.php');
+                ->group(__DIR__ . '/../../routers/api.php');
 
             Route::middleware('web')
-                ->group(__DIR__ . '/../routers/web.php');
+                ->group(__DIR__ . '/../../routers/web.php');
         });
     }
 }
