@@ -2,6 +2,7 @@
     "name": "ducnm/movie",
     "description": "web movie",
     "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Ducnm\\": "src/"
