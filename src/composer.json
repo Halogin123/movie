@@ -1,0 +1,15 @@
+{
+    "name": "ducnm/movie",
+    "autoload": {
+        "psr-4": {
+            "Ducnm\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ducnm\\AppServiceProvider"
+            ]
+        }
+    }
+}
