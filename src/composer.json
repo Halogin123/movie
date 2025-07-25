@@ -1,5 +1,6 @@
 {
     "name": "ducnm/movie",
+    "description": "web movie",
     "autoload": {
         "psr-4": {
             "Ducnm\\": "src/"
