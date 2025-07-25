@@ -1,8 +1,8 @@
 <?php
 
-namespace Ducnm\app\Controllers\Admin;
+namespace MovieChill\app\Controllers\Admin;
 
-use Ducnm\Application\Asset\AssetCategoriesService;
+use MovieChill\Application\Asset\AssetCategoriesService;
 
 class AssetCategoriesController extends BaseController
 {

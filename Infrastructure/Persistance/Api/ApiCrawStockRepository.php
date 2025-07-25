@@ -1,8 +1,8 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\Api;
+namespace MovieChill\Infrastructure\Persistance\Api;
 
-use Ducnm\Infrastructure\Helpers\ApiHelpers;
+use MovieChill\Infrastructure\Helpers\ApiHelpers;
 
 class ApiCrawStockRepository
 {

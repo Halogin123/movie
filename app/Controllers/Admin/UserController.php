@@ -1,10 +1,10 @@
 <?php
 
-namespace Ducnm\app\Controllers\Admin;
+namespace MovieChill\app\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
-use Ducnm\app\Models\User;
-use Ducnm\Infrastructure\Helpers\ResponseHelper;
+use MovieChill\app\Models\User;
+use MovieChill\Infrastructure\Helpers\ResponseHelper;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Log;

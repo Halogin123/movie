@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\Infrastructure\Trait;
+namespace MovieChill\Infrastructure\Trait;
 
 trait Formula
 {

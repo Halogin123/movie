@@ -1,21 +1,21 @@
 <?php
 
-namespace Ducnm\app\Providers;
+namespace MovieChill\app\Providers;
 
-use Ducnm\Domain\Model\AssetCategoriesInterface;
-use Ducnm\Domain\Model\StockInterface;
-use Ducnm\Domain\Model\StockTransactionInterface;
-use Ducnm\Domain\ModelV2\AssetInterface;
-use Ducnm\Domain\ModelV2\DebtInterface;
-use Ducnm\Domain\ModelV2\MonthlyPaymentInterface;
-use Ducnm\Domain\ModelV2\TransactionsInterface;
-use Ducnm\Infrastructure\Persistance\Mysql\AssetCategoriesRepository;
-use Ducnm\Infrastructure\Persistance\Mysql\MysqlStockRepository;
-use Ducnm\Infrastructure\Persistance\Mysql\MysqlStockTransactionRepository;
-use Ducnm\Infrastructure\Persistance\MysqlV2\AssetRepository;
-use Ducnm\Infrastructure\Persistance\MysqlV2\DebtRepository;
-use Ducnm\Infrastructure\Persistance\MysqlV2\MonthlyPaymentRepository;
-use Ducnm\Infrastructure\Persistance\MysqlV2\TransactionsRepository;
+use MovieChill\Domain\Model\AssetCategoriesInterface;
+use MovieChill\Domain\Model\StockInterface;
+use MovieChill\Domain\Model\StockTransactionInterface;
+use MovieChill\Domain\ModelV2\AssetInterface;
+use MovieChill\Domain\ModelV2\DebtInterface;
+use MovieChill\Domain\ModelV2\MonthlyPaymentInterface;
+use MovieChill\Domain\ModelV2\TransactionsInterface;
+use MovieChill\Infrastructure\Persistance\Mysql\AssetCategoriesRepository;
+use MovieChill\Infrastructure\Persistance\Mysql\MysqlStockRepository;
+use MovieChill\Infrastructure\Persistance\Mysql\MysqlStockTransactionRepository;
+use MovieChill\Infrastructure\Persistance\MysqlV2\AssetRepository;
+use MovieChill\Infrastructure\Persistance\MysqlV2\DebtRepository;
+use MovieChill\Infrastructure\Persistance\MysqlV2\MonthlyPaymentRepository;
+use MovieChill\Infrastructure\Persistance\MysqlV2\TransactionsRepository;
 use Illuminate\Support\ServiceProvider;
 
 class RepositoryServiceProvider extends ServiceProvider

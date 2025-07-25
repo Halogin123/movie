@@ -1,9 +1,9 @@
 <?php
 
-use Ducnm\app\Controllers\Api\DashBoardController;
-use Ducnm\app\Controllers\Api\GenerateQrController;
-use Ducnm\app\Controllers\Api\TransactionsController;
-use Ducnm\app\Controllers\Api\UserController;
+use MovieChill\app\Controllers\Api\DashBoardController;
+use MovieChill\app\Controllers\Api\GenerateQrController;
+use MovieChill\app\Controllers\Api\TransactionsController;
+use MovieChill\app\Controllers\Api\UserController;
 use Illuminate\Support\Facades\Route;
 
 /*

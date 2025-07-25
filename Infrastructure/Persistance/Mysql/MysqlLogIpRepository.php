@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\Mysql;
+namespace MovieChill\Infrastructure\Persistance\Mysql;
 
-use Ducnm\app\Models\Logip;
-use Ducnm\Domain\Model\LogIp\LogIpInterface;
+use MovieChill\app\Models\Logip;
+use MovieChill\Domain\Model\LogIp\LogIpInterface;
 
 class MysqlLogIpRepository extends AbstractRepository implements LogIpInterface
 {

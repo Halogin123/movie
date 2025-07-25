@@ -1,12 +1,12 @@
 <?php
 
-namespace Ducnm\Application\Transactions;
+namespace MovieChill\Application\Transactions;
 
 use Carbon\Carbon;
-use Ducnm\Domain\Enum\TransactionTypeEnum;
-use Ducnm\Infrastructure\Persistance\MysqlV2\MonthlyHistoriesRepository;
-use Ducnm\Infrastructure\Persistance\MysqlV2\TransactionsRepository;
-use Ducnm\Infrastructure\Persistance\MysqlV2\UserRepository;
+use MovieChill\Domain\Enum\TransactionTypeEnum;
+use MovieChill\Infrastructure\Persistance\MysqlV2\MonthlyHistoriesRepository;
+use MovieChill\Infrastructure\Persistance\MysqlV2\TransactionsRepository;
+use MovieChill\Infrastructure\Persistance\MysqlV2\UserRepository;
 
 class TransactionsService
 {

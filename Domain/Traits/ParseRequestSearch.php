@@ -6,7 +6,7 @@
  * Time: 10:55 PM
  */
 
-namespace Ducnm\Domain\Traits;
+namespace MovieChill\Domain\Traits;
 
 use Illuminate\Http\Request;
 

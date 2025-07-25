@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\MysqlV2;
+namespace MovieChill\Infrastructure\Persistance\MysqlV2;
 
-use Ducnm\app\Models\Transactions;
-use Ducnm\Domain\ModelV2\TransactionsInterface;
+use MovieChill\app\Models\Transactions;
+use MovieChill\Domain\ModelV2\TransactionsInterface;
 
 class TransactionsRepository extends AbstractRepository implements TransactionsInterface
 {

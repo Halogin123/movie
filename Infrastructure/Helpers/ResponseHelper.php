@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\Infrastructure\Helpers;
+namespace MovieChill\Infrastructure\Helpers;
 
 class ResponseHelper
 {

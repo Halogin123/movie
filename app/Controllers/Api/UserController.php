@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\app\Controllers\Api;
+namespace MovieChill\app\Controllers\Api;
 
 use App\Http\Controllers\Controller;
-use Ducnm\Infrastructure\Helpers\ResponseHelper;
+use MovieChill\Infrastructure\Helpers\ResponseHelper;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Auth;

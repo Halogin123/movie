@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\MysqlV2;
+namespace MovieChill\Infrastructure\Persistance\MysqlV2;
 
-use Ducnm\app\Models\Asset;
-use Ducnm\Domain\ModelV2\AssetInterface;
+use MovieChill\app\Models\Asset;
+use MovieChill\Domain\ModelV2\AssetInterface;
 
 class AssetRepository extends AbstractRepository implements AssetInterface
 {

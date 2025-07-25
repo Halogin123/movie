@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\app\Controllers;
+namespace MovieChill\app\Controllers;
 
 use App\Http\Controllers\Controller;
-use Ducnm\app\Models\User;
+use MovieChill\app\Models\User;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Auth;
 use Laravel\Socialite\Facades\Socialite;

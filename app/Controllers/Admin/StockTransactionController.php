@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\app\Controllers\Admin;
+namespace MovieChill\app\Controllers\Admin;
 
-use Ducnm\Application\Stock\StockService;
-use Ducnm\Application\Stock\StockTransactionService;
+use MovieChill\Application\Stock\StockService;
+use MovieChill\Application\Stock\StockTransactionService;
 use Illuminate\Http\Request;
 
 class StockTransactionController extends BaseController

@@ -1,12 +1,12 @@
 <?php
 
-namespace Ducnm\app\Controllers\Api;
+namespace MovieChill\app\Controllers\Api;
 
 use App\Http\Controllers\Controller;
 use Carbon\Carbon;
-use Ducnm\Application\MonthlyHistories\MonthlyHistoriesService;
-use Ducnm\Application\Transactions\TransactionsService;
-use Ducnm\Infrastructure\Helpers\ResponseHelper;
+use MovieChill\Application\MonthlyHistories\MonthlyHistoriesService;
+use MovieChill\Application\Transactions\TransactionsService;
+use MovieChill\Infrastructure\Helpers\ResponseHelper;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Log;

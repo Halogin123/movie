@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\Application;
+namespace MovieChill\Application;
 class BaseService
 {
     public function getList($params, $all = false)

@@ -1,5 +1,5 @@
 <?php
-namespace Ducnm\Domain\Model;
+namespace MovieChill\Domain\Model;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;

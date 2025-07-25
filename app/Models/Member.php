@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\app\Models;
+namespace MovieChill\app\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 

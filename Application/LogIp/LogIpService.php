@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Application\LogIp;
+namespace MovieChill\Application\LogIp;
 
-use Ducnm\Application\BaseService;
-use Ducnm\Infrastructure\Persistance\Mysql\MysqlLogIpRepository;
+use MovieChill\Application\BaseService;
+use MovieChill\Infrastructure\Persistance\Mysql\MysqlLogIpRepository;
 
 class LogIpService extends BaseService
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\Mysql;
+namespace MovieChill\Infrastructure\Persistance\Mysql;
 
-use Ducnm\app\Models\User;
-use Ducnm\Domain\Model\IBaseRepository;
-use Ducnm\Domain\Traits\ParseRequestSearch;
+use MovieChill\app\Models\User;
+use MovieChill\Domain\Model\IBaseRepository;
+use MovieChill\Domain\Traits\ParseRequestSearch;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Auth;
 

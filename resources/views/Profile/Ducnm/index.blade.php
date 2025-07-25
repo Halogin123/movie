@@ -83,7 +83,7 @@
                 <!--                <div class="sc-bdfBwQ pkAuV web">-->
                 <!--                    <div data-testid="StyledContainer"-->
                 <!--                         class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 jxIDHS bqrWMb button">-->
-                <!--                        <a href="http://ducnm.tk/phpMyAdmin/" target="_blank" height="auto"-->
+                <!--                        <a href="http://MovieChill.tk/phpMyAdmin/" target="_blank" height="auto"-->
                 <!--                           class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC">-->
                 <!--                            <div data-testid="LinkThumbnail"-->
                 <!--                                 class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 fNlWAC bhdLno lobUeD"></div>-->
@@ -116,7 +116,7 @@
                 <div class="sc-bdfBwQ pkAuV">
                     <div data-testid="StyledContainer"
                          class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 jxIDHS bqrWMb button">
-                        <a href="https://gitlab.com/ducnm1610" target="_blank" height="auto"
+                        <a href="https://gitlab.com/MovieChill1610" target="_blank" height="auto"
                            class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC">
                             <div data-testid="LinkThumbnail"
                                  class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 fNlWAC bhdLno KruCl"></div>
@@ -127,7 +127,7 @@
                 <div class="sc-bdfBwQ pkAuV">
                     <div data-testid="StyledContainer"
                          class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 jxIDHS bqrWMb button">
-                        <a href="mailto:ducnm92330@gmail.com" target="_blank" height="auto"
+                        <a href="mailto:MovieChill92330@gmail.com" target="_blank" height="auto"
                            class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dhQIaC">
                             <div data-testid="LinkThumbnail"
                                  class="sc-bdfBwQ sc-gsTCUz StyledThumbnail-sc-1hclpwd-0 fNlWAC bhdLno fDnlrD"></div>

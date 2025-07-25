@@ -1,12 +1,12 @@
 <?php
 
-namespace Ducnm\Application\MonthlyHistories;
+namespace MovieChill\Application\MonthlyHistories;
 
-use Ducnm\app\Models\MonthlyHistories;
+use MovieChill\app\Models\MonthlyHistories;
 use Carbon\Carbon;
-use Ducnm\Domain\Enum\TransactionTypeEnum;
-use Ducnm\Domain\ModelV2\TransactionsInterface;
-use Ducnm\Infrastructure\Persistance\MysqlV2\MonthlyHistoriesRepository;
+use MovieChill\Domain\Enum\TransactionTypeEnum;
+use MovieChill\Domain\ModelV2\TransactionsInterface;
+use MovieChill\Infrastructure\Persistance\MysqlV2\MonthlyHistoriesRepository;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 

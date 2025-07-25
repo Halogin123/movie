@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\app\Controllers\Admin;
+namespace MovieChill\app\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\Infrastructure\Helpers;
+namespace MovieChill\Infrastructure\Helpers;
 
 use Illuminate\Http\Client\HttpClientException;
 use Illuminate\Support\Facades\Http;

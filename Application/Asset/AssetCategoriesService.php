@@ -1,10 +1,10 @@
 <?php
 
-namespace Ducnm\Application\Asset;
+namespace MovieChill\Application\Asset;
 
-use Ducnm\Application\BaseService;
-use Ducnm\Domain\Model\AssetCategoriesInterface;
-use Ducnm\Infrastructure\Persistance\Mysql\AssetCategoriesRepository;
+use MovieChill\Application\BaseService;
+use MovieChill\Domain\Model\AssetCategoriesInterface;
+use MovieChill\Infrastructure\Persistance\Mysql\AssetCategoriesRepository;
 
 class AssetCategoriesService extends BaseService
 {

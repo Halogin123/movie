@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\app\Controllers\Api;
+namespace MovieChill\app\Controllers\Api;
 
 use App\Helpers\CallApi;
 use App\Http\Controllers\Controller;

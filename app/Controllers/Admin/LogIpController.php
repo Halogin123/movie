@@ -1,8 +1,8 @@
 <?php
 
-namespace Ducnm\app\Controllers\Admin;
+namespace MovieChill\app\Controllers\Admin;
 
-use Ducnm\Application\LogIp\LogIpService;
+use MovieChill\Application\LogIp\LogIpService;
 
 class LogIpController extends BaseController
 {

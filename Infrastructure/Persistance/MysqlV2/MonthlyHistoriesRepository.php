@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\MysqlV2;
+namespace MovieChill\Infrastructure\Persistance\MysqlV2;
 
-use Ducnm\app\Models\MonthlyHistories;
-use Ducnm\Domain\ModelV2\MonthlyHistoriesInterface;
+use MovieChill\app\Models\MonthlyHistories;
+use MovieChill\Domain\ModelV2\MonthlyHistoriesInterface;
 
 class MonthlyHistoriesRepository extends AbstractRepository implements MonthlyHistoriesInterface
 {

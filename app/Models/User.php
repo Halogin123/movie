@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\app\Models;
+namespace MovieChill\app\Models;
 
 class User extends \App\Models\User
 {

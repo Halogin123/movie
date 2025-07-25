@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\Mysql;
+namespace MovieChill\Infrastructure\Persistance\Mysql;
 
-use Ducnm\app\Models\AssetCategories;
-use Ducnm\Domain\Model\AssetCategoriesInterface;
+use MovieChill\app\Models\AssetCategories;
+use MovieChill\Domain\Model\AssetCategoriesInterface;
 
 class AssetCategoriesRepository extends AbstractRepository implements AssetCategoriesInterface
 {

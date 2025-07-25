@@ -1,24 +1,24 @@
 <?php
 
 use App\Http\Controllers\EnglishController;
-use Ducnm\app\Controllers\Admin\AssetCategoriesController;
-use Ducnm\app\Controllers\Admin\AssetController;
-use Ducnm\app\Controllers\Admin\DashboardController;
-use Ducnm\app\Controllers\Admin\FundCertificatesController;
-use Ducnm\app\Controllers\Admin\GroupPermissionController;
-use Ducnm\app\Controllers\Admin\LogIpController;
-use Ducnm\app\Controllers\Admin\PermissionController;
-use Ducnm\app\Controllers\Admin\StockController;
-use Ducnm\app\Controllers\Admin\StockTransactionController;
-use Ducnm\app\Controllers\Admin\TransactionsController;
-use Ducnm\app\Controllers\Admin\UserController;
-use Ducnm\app\Controllers\Api\GenerateQrController;
-use Ducnm\app\Controllers\GoogleController;
-use Ducnm\app\Controllers\LoginController;
-use Ducnm\app\Controllers\MyLoveController;
-use Ducnm\app\Controllers\ProfileController;
-use Ducnm\app\Controllers\ReportController;
-use Ducnm\app\Controllers\TestController;
+use MovieChill\app\Controllers\Admin\AssetCategoriesController;
+use MovieChill\app\Controllers\Admin\AssetController;
+use MovieChill\app\Controllers\Admin\DashboardController;
+use MovieChill\app\Controllers\Admin\FundCertificatesController;
+use MovieChill\app\Controllers\Admin\GroupPermissionController;
+use MovieChill\app\Controllers\Admin\LogIpController;
+use MovieChill\app\Controllers\Admin\PermissionController;
+use MovieChill\app\Controllers\Admin\StockController;
+use MovieChill\app\Controllers\Admin\StockTransactionController;
+use MovieChill\app\Controllers\Admin\TransactionsController;
+use MovieChill\app\Controllers\Admin\UserController;
+use MovieChill\app\Controllers\Api\GenerateQrController;
+use MovieChill\app\Controllers\GoogleController;
+use MovieChill\app\Controllers\LoginController;
+use MovieChill\app\Controllers\MyLoveController;
+use MovieChill\app\Controllers\ProfileController;
+use MovieChill\app\Controllers\ReportController;
+use MovieChill\app\Controllers\TestController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -33,8 +33,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 
-Route::domain(env('DUCNM'))->group(function () {
-    Route::get('/',[ProfileController::class,'index'])->name('ducnm');
+Route::domain(env('MovieChill'))->group(function () {
+    Route::get('/',[ProfileController::class,'index'])->name('MovieChill');
 });
 //
 //Route::domain(env('NHUNGNVH'))->group(function () {

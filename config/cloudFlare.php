@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'ducnmcom' => [
+    'MovieChillcom' => [
         'id' => '1cab5496c2499ce84a0a18bed4d36405',
         'zone_id' => '52eaa9046907a1b3c918f976931a5ed0',
-        'name' => 'ducnm.com'
+        'name' => 'MovieChill.com'
     ],
     'atunshopcom' => [
         'id' => '513888a411060674240680570e94e127',

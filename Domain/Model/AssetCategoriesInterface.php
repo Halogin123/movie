@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\Domain\Model;
+namespace MovieChill\Domain\Model;
 
 interface AssetCategoriesInterface extends IBaseRepository
 {

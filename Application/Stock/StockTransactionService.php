@@ -1,12 +1,12 @@
 <?php
 
-namespace Ducnm\Application\Stock;
+namespace MovieChill\Application\Stock;
 
 use Carbon\Carbon;
-use Ducnm\Application\BaseService;
-use Ducnm\Infrastructure\Persistance\Mysql\MysqlStockRepository;
-use Ducnm\Infrastructure\Persistance\Mysql\MysqlStockTransactionRepository;
-use Ducnm\Infrastructure\Trait\Formula;
+use MovieChill\Application\BaseService;
+use MovieChill\Infrastructure\Persistance\Mysql\MysqlStockRepository;
+use MovieChill\Infrastructure\Persistance\Mysql\MysqlStockTransactionRepository;
+use MovieChill\Infrastructure\Trait\Formula;
 
 class StockTransactionService extends BaseService
 {

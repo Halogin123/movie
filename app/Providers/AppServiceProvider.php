@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\app\Providers;
+namespace MovieChill\app\Providers;
 
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;

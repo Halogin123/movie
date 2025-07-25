@@ -1,8 +1,8 @@
 <?php
 
-namespace Ducnm\app\Models;
+namespace MovieChill\app\Models;
 
-use Ducnm\Domain\Enum\TransactionTypeEnum;
+use MovieChill\Domain\Enum\TransactionTypeEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\MysqlV2;
+namespace MovieChill\Infrastructure\Persistance\MysqlV2;
 
-use Ducnm\Domain\ModelV2\BaseInterface;
+use MovieChill\Domain\ModelV2\BaseInterface;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 

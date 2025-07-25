@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\Domain\Enum;
+namespace MovieChill\Domain\Enum;
 
 enum TransactionTypeEnum: string
 {

@@ -5,13 +5,13 @@
     "version": "1.0.0",
     "autoload": {
         "psr-4": {
-            "Ducnm\\": "src/"
+            "MovieChill\\": "/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ducnm\\app\\Providers\\AppServiceProvider"
+                "MovieChill\\app\\Providers\\AppServiceProvider"
             ]
         }
     },

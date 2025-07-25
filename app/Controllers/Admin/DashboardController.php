@@ -1,12 +1,12 @@
 <?php
 
-namespace Ducnm\app\Controllers\Admin;
+namespace MovieChill\app\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Carbon\Carbon;
-use Ducnm\Application\MonthlyHistories\MonthlyHistoriesService;
-use Ducnm\Application\Transactions\TransactionsService;
-use Ducnm\Domain\Enum\TransactionTypeEnum;
+use MovieChill\Application\MonthlyHistories\MonthlyHistoriesService;
+use MovieChill\Application\Transactions\TransactionsService;
+use MovieChill\Domain\Enum\TransactionTypeEnum;
 use Illuminate\Contracts\View\View;
 
 class DashboardController extends Controller

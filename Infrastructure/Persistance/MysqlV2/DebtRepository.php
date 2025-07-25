@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\MysqlV2;
+namespace MovieChill\Infrastructure\Persistance\MysqlV2;
 
-use Ducnm\app\Models\Debt;
-use Ducnm\Domain\ModelV2\DebtInterface;
+use MovieChill\app\Models\Debt;
+use MovieChill\Domain\ModelV2\DebtInterface;
 
 class DebtRepository extends AbstractRepository implements DebtInterface
 {

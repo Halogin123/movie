@@ -1,10 +1,10 @@
 <?php
 
-namespace Ducnm\Application\Stock;
+namespace MovieChill\Application\Stock;
 
-use Ducnm\Application\BaseService;
-use Ducnm\Infrastructure\Persistance\Api\ApiCrawStockRepository;
-use Ducnm\Infrastructure\Persistance\Mysql\MysqlStockRepository;
+use MovieChill\Application\BaseService;
+use MovieChill\Infrastructure\Persistance\Api\ApiCrawStockRepository;
+use MovieChill\Infrastructure\Persistance\Mysql\MysqlStockRepository;
 
 class StockService extends BaseService
 {

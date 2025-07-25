@@ -1,9 +1,9 @@
 <?php
 
-namespace Ducnm\Infrastructure\Persistance\Mysql;
+namespace MovieChill\Infrastructure\Persistance\Mysql;
 
-use Ducnm\app\Models\StockTransaction;
-use Ducnm\Domain\Model\StockTransactionInterface;
+use MovieChill\app\Models\StockTransaction;
+use MovieChill\Domain\Model\StockTransactionInterface;
 
 class MysqlStockTransactionRepository extends AbstractRepository implements StockTransactionInterface
 {

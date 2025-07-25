@@ -1,6 +1,6 @@
 <?php
 
-namespace Ducnm\Domain\Model\LogIp;
+namespace MovieChill\Domain\Model\LogIp;
 
 interface LogIpInterface
 {
