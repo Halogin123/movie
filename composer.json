@@ -11,8 +11,9 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Ducnm\\app\\AppServiceProvider"
+                "Ducnm\\app\\Providers\\AppServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
