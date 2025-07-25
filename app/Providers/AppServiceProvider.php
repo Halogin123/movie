@@ -32,12 +32,12 @@ class AppServiceProvider extends ServiceProvider
 
     private function _loadViews(): void
     {
-        View::addLocation(base_path('src/resources/views'));
+        View::addLocation(__DIR__.'/../../resources/views');
     }
 
     private function _loadMigrations(): void
     {
-        $customMigrationPath = base_path('src/database/migrations');
+        $customMigrationPath = base_path(__DIR__.'/../../database/migrations');
 
         $this->loadMigrationsFrom($customMigrationPath);
     }
